@@ -1,0 +1,25 @@
+.register{
+  padding: 20px;
+  padding-right: 25px;
+  box-shadow: 0px 5px 10px 0px #3B71CA;
+  border-radius: 25px;  
+  }
+.register-content{
+  width:100%;  
+  margin-bottom:10px;   
+}
+.register-form{
+  width:100%;  
+ 
+}
+.btn-sm{
+  width:100%;
+  border-radius: 100px;
+}
+input{
+  width:100%;
+  border-radius: 10px;
+  border:none;
+  text-align: center;
+  font-size: large;
+}
